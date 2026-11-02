@@ -1,0 +1,22 @@
+{
+  "wheel_id": 677,
+  "structure": "umbrella",
+  "slug": "bestbrisbanerestaurants-101",
+  "project": "restaurants-brisbane-cost-guide-ca6c9e7a638d5b8eb0f7eb48aa9f4fe",
+  "parent_t1_ref": "bestbrisbanerestaurants-150",
+  "node_role": "feeder",
+  "money_target": "bestbrisbanerestaurants.com.au",
+  "primary_kw": "restaurants brisbane cost guide",
+  "intended_url": "http://restaurants-brisbane-cost-guide-ca6c9e7a638d5b8eb0f7eb48aa9f4fe.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "5d397f0654e7c39e",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bestbrisbanerestaurants-150/",
+      "anchor": "Restaurants Brisbane Quotes Explained: how quotes are read",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
